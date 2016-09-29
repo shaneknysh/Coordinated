@@ -1,0 +1,10 @@
+## gradle
+/.gradle
+/build
+
+## ForgeGradle
+/run
+
+## Jars
+*.jar
+!/gradle/wrapper/gradle-wrapper.jar

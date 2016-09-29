@@ -1,0 +1,16 @@
+[
+{
+  "modid": "coordinated",
+  "name": "Coordinated",
+  "description": "Display current coordinates",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["shaneknysh"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
