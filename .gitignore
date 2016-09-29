@@ -8,3 +8,6 @@
 ## Jars
 *.jar
 !/gradle/wrapper/gradle-wrapper.jar
+
+## Codeenvy
+.codeenvy
